@@ -1,4 +1,4 @@
-This Java program takes a DNA sequence as input, validates it, reverses it, finds its complementary strand, and then translates it into a sequence of amino acids. 🧬 This project demonstrates the use of recursion for string manipulation and processing biological data.
+This Java program takes a DNA sequence as input, validates it, reverses it, finds its complementary strand, and then translates it into a sequence of amino acids. This project demonstrates the use of recursion for string manipulation and processing biological data.
 
 The program performs the following steps:
 
